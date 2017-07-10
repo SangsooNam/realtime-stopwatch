@@ -1,5 +1,6 @@
 # Realtime Stopwatch
 Example code to explain `systrace` and `View#post`.
+![App](http://sangsoonam.github.io/images/2017/07-10/app.png)
 
 Check this post. http://sangsoonam.github.io/2017/07/10/realtime-stopwatch.html
 
